@@ -1,2 +1,2 @@
 # microcontrollers-p1
-Microcontollers Course 2021 [part 1]
+Microcontrollers Course 2021 [part 1]
